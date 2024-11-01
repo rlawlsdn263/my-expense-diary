@@ -1,6 +1,6 @@
-import styles from './page.module.css';
+import styles from "./page.module.css";
 
-import { ExpenseForm } from './components';
+import { ExpenseForm } from "@/components";
 
 export default function Home() {
   return (
